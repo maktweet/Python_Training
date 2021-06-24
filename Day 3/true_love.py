@@ -2,14 +2,7 @@ your_name = input("Whats is your name? :").lower()
 their_name = input("What is their name? :").lower()
 true_count = 0
 love_count = 0
-t=0
-r=0
-u=0
-e=0
-l=0
-o=0
-v=0
-e=0
+
 
 true_count += your_name.count("t")
 true_count += your_name.count("r")
